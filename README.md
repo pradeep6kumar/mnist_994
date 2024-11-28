@@ -79,7 +79,8 @@ The model showed consistent improvement, reaching new best accuracies at the fol
 - **Final Loss**: Maintained stable low loss values (<0.02) in later epochs
 - **Consistency**: Maintained >99% accuracy from epoch 5 onwards
 
-### 
+## For a full log you can click below
+![log](https://github.com/pradeep6kumar/mnist_994/blob/aoc/model_test_results_20241128_192148.txt)
 
 ## Epoch wise loss and accuracy
 
