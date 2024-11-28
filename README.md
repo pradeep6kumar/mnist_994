@@ -83,4 +83,4 @@ The model showed consistent improvement, reaching new best accuracies at the fol
 
 ## Epoch wise loss and accuracy
 
-![plot]([http://url/to/img.png](https://github.com/pradeep6kumar/mnist_994/blob/aoc/training_metrics.png))
+![plot](https://github.com/pradeep6kumar/mnist_994/blob/aoc/training_metrics.png)
