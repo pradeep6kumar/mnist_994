@@ -8,7 +8,7 @@ This model demonstrates exceptional performance with minimal parameters through:
 - Efficient architecture design using only ~19.8K parameters
 - Strategic use of batch normalization and dropout for regularization
 - Achieving 99.54% accuracy without complex architectures
-- Fast convergence, reaching >99% accuracy within 15 epochs
+- Fast convergence, reaching >99% accuracy within 5 epochs
 - Stable training with consistent performance
 
 ## Model Architecture (Summary)
@@ -77,7 +77,7 @@ The model showed consistent improvement, reaching new best accuracies at the fol
 - **Convergence**: Achieved >99% accuracy by epoch 5
 - **Best Performance**: Reached peak accuracy of 99.54% at epoch 16
 - **Final Loss**: Maintained stable low loss values (<0.02) in later epochs
-- **Consistency**: Maintained >99% accuracy from epoch 5 onwards
+- **Consistency**: Maintained >99% accuracy from epoch 8 onwards
 
 ## For a full log you can click below
 ![log](https://github.com/pradeep6kumar/mnist_994/blob/aoc/model_test_results_20241128_192148.txt)
